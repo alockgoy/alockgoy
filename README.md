@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy alockgoy 👋
 
-<!--
-**alockgoy/alockgoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alonso-s%C3%A1nchez-jerez-a06860372/)])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/alockgoy/)])
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy un titulado en desarrollo de aplicaciones web. Actualmente estudiante de una oposición para TAI (técnico de auxiliar informática).
+
+## Mis Repositorios Destacados
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=gestion-gastos-1&theme=radical)](https://github.com/alockgoy/gestion-gastos)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=proyecto_final_2daw-2&theme=radical)](https://github.com/alockgoy/proyecto_final_2daw)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=free_pc_games_telegram_bot-3&theme=radical)](https://github.com/alockgoy/free_pc_games_telegram_bot)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=telegram_wol_bot-4&theme=radical)](https://github.com/alockgoy/telegram_wol_bot)
+
+</div>
+
+## Estadísticas de GitHub
+
+<div align="center">
+  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alockgoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alockgoy&layout=compact&theme=radical&langs_count=8)
+
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=alockgoy&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitas al perfil](https://komarev.com/ghpvc/?username=alockgoy&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+
+</div>
