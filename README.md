@@ -15,11 +15,11 @@ Soy un titulado en desarrollo de aplicaciones web. Actualmente estudiante de una
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=gestion-gastos-1&theme=radical)](https://github.com/alockgoy/gestion-gastos)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=proyecto_final_2daw-2&theme=radical)](https://github.com/alockgoy/proyecto_final_2daw)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=gestion-gastos&theme=radical)](https://github.com/alockgoy/gestion-gastos)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=proyecto_final_2daw&theme=radical)](https://github.com/alockgoy/proyecto_final_2daw)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=free_pc_games_telegram_bot-3&theme=radical)](https://github.com/alockgoy/free_pc_games_telegram_bot)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=telegram_wol_bot-4&theme=radical)](https://github.com/alockgoy/telegram_wol_bot)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=free_pc_games_telegram_bot&theme=radical)](https://github.com/alockgoy/free_pc_games_telegram_bot)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=alockgoy&repo=telegram_wol_bot&theme=radical)](https://github.com/alockgoy/telegram_wol_bot)
 
 </div>
 
