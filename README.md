@@ -31,8 +31,7 @@ Soy un titulado en desarrollo de aplicaciones web. Actualmente estudiante de una
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alockgoy&layout=compact&theme=radical&langs_count=8)
 
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=alockgoy&theme=radical)
-
+![Racha de contribuciones](https://github-contributor-stats.vercel.app/api?username=alockgoy)
 </div>
 
 ---
