@@ -13,6 +13,7 @@
 - 🌍 **Idiomas:** Español (Nativo) | Inglés (B2 - Cambridge).
 - 💼 **Otras:**
   - Me gusta editar vídeo 🎞️ (actualmente aprendiendo en Kdenlive, sé usar Wondershare Filmora).
+  - Me gusta editar fotos 📷, uso GIMP.
   - Desarrollo de juegos 🎮:
     - He creado un Flappy Bird usando Godot.
     - Me gustaría desarrollar un proyecto más grande en el futuro.
