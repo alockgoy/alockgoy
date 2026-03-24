@@ -6,9 +6,20 @@
 
 </div>
 
-## Sobre mí
+## 👨‍💻Sobre mí
 
-Soy un titulado en desarrollo de aplicaciones web. Actualmente estudiante de una oposición para TAI (técnico de auxiliar informática).
+- 🎓 **Formación:** Sistemas micro-informáticos y redes (SMR) y Desarrollode Aplicaciones Web (DAW).
+- 🧠 **Actualmente:** Opositor a **Técnico de Auxiliar Informática**.
+- 🌍 **Idiomas:** Español (Nativo) | Inglés (B2 - Cambridge).
+- 💼 **Otras:**
+  - Me gusta editar vídeo 🎞️ (actualmente aprendiendo en Kdenlive, sé usar Wondershare Filmora).
+  - Desarrollo de juegos 🎮:
+    - He creado un Flappy Bird usando Godot.
+    - Me gustaría desarrollar un proyecto más grande en el futuro.
+  - Desarrollo de apps Android 📱:
+    - Tengo algunas ideas para aplicaciones.
+    - Necesito aprender Kotlin.
+    - Necesito aprender a usar Android Studio.
 
 ## Mis Repositorios Destacados
 
